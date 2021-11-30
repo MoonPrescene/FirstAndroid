@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="newSize">20sp</dimen>
+    <dimen name="paddingtop">14dp</dimen>
+    <dimen name="marginTop">8dp</dimen>
+    <dimen name="StarMargin">16dp</dimen><![CDATA[
+]]></resources>
